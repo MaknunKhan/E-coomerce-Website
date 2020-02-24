@@ -6,7 +6,7 @@ body{
     font-size: 18px;
 }
 .container{
-    margin-bottom: 80px;
+    margin-bottom: 100px;
 }
 
 .ml-auto {
@@ -66,7 +66,7 @@ body{
     background-color: orange;
     padding: 5px;
 }
-.catg-underline{
+.hr-design hr{
     border-style: solid;
     border-width: 0px 0px 10px 0px;
     padding-bottom: 4px;
@@ -75,4 +75,21 @@ body{
     border-image: linear-gradient(45deg, rgb(255, 150, 25), rgb(250, 224, 66)) 1;
     margin-bottom: 5%;
 
+}
+.image1, .image2, .image3{
+  padding: 40px;
+  background-color: #FFFFFF;
+  margin: 10px;
+  border-radius: 5px 5px 20px 5px;
+  box-shadow: 5px 5px 10px grey;
+}
+.image3{
+  padding: 60px;
+}
+.pale{
+  width: 140%;
+}
+.bg-color{
+      background-color: gainsboro;
+      box-shadow:5px 5px 10px grey; 
 }
