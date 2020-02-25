@@ -93,3 +93,12 @@ body{
       background-color: gainsboro;
       box-shadow:5px 5px 10px grey; 
 }
+.bg-image1{
+    background-image: url('images/background-images/best-product.png');
+    background-repeat: no-repeat;
+}
+.bg-image2{
+  background-image: url('images/background-images/bg2.png');;
+  background-repeat: no-repeat;
+  background-position:-40px bottom;
+}
